@@ -1,6 +1,8 @@
-# 📊 [Project Name] - Power BI Dashboard
+# 📊 BlinkIt - Power BI Dashboard
 
-![Dashboard Preview](docs/dashboard-preview.png)
+<img width="1280" height="720" alt="maxresdefault" src="https://github.com/user-attachments/assets/80463b6e-f2d8-4752-8472-51a9698f31e6" />
+
+
 
 ## 📌 Executive Summary
 Provide a brief 2–3 sentence overview of the business context and objective of this dashboard. 
